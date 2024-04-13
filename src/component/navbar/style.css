@@ -1,0 +1,8 @@
+@media only screen and (max-width: 768px) {
+    .home {
+        display: none;
+    }
+    .templar{
+display: none;
+    }
+}

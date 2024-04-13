@@ -1,0 +1,16 @@
+@media only screen and (max-width: 768px) {
+    .custumer {
+        flex-direction: column;
+        align-items: center;
+        gap:"40px";
+        font-weight: bold;
+        width: 610;
+    }
+    .button{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 200px;
+       
+    }
+}

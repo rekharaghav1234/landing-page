@@ -1,0 +1,15 @@
+@media only screen and (max-width: 768px) {
+    .footer {
+        flex-direction: column;
+        align-items: center;
+        /* width: 610; */
+    }
+    .footerbox{
+        flex-direction: column;
+        align-items: center; 
+    }
+    .heading h1{
+        font-size:30px ;
+        padding: 20px;
+    }
+}

@@ -1,0 +1,19 @@
+@media only screen and (max-width: 768px) {
+    .dashboard {
+        flex-direction: column;
+        align-items: center;
+    }
+    .features{
+        flex-direction: column;
+        align-items: center;  
+    }
+    .pera{
+        display: none;
+   
+    }
+    /* .dashboard{
+        width: 610;
+       
+    } */
+    
+}
